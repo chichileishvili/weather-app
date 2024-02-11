@@ -6,6 +6,7 @@
   "scripts": {
     "start": "node src/app.js"
   },
+  "publishDirectory": "./public",
   "keywords": [],
   "author": "",
   "license": "ISC",
